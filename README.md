@@ -1,12 +1,13 @@
-# Online-Study-App
+# Bagwai Online
 ## Codeln Student Ambassador, Front-end Assessment Project 
 
 ### Languages
-HTML 
-CSS
-JavaScript
-Python
+*HTML 
+*CSS
+*JavaScript
+
 
 ### Frameworks
-Bootstrap3
-Django
+*Bootstrap4
+*SASS
+*Icomoon

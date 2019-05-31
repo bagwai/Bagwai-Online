@@ -2,12 +2,13 @@
 ## Codeln Student Ambassador, Front-end Assessment Project 
 
 ### Languages
-*HTML 
-*CSS
-*JavaScript
+* HTML 
+* CSS
+* JavaScript
 
 
 ### Frameworks
-*Bootstrap4
-*SASS
-*Icomoon
+* Bootstrap4
+* SASS
+* Icomoon
+
